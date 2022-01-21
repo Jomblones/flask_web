@@ -1,0 +1,7 @@
+1. Open Git Bash
+2. run the venv (source virt/Scripts/activate)
+3. do this command (export FLASK_ENV=development)
+4. do this command also (export FLASK_APP=hello.py)
+3. finally (flask run)
+4. Boom! your web is running, enjoy!
+5. Don't forget to 'deactivate' to close venv
